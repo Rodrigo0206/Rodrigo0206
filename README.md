@@ -1,8 +1,8 @@
-Olá. Bem-vindo ao meu perfil
-Apaixonado por programação
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- Olá. Bem-vindo ao meu perfil
+- Apaixonado por programação
+- ⚡Habilidades: Java, Spring, JUnit, Mockito, Maven, Tomcat, Python. 
+- Atualmente fazendo a formação Spring Framework do alura.
+- no meu tempo vago eu toco violão e viola caipira hehe.
 
 <!---
 Rodrigo0206/Rodrigo0206 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
