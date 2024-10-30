@@ -1,7 +1,7 @@
 - Olá. Bem-vindo ao meu perfil
 - 👩‍💻Apaixonado por programação
-- ⚡Habilidades: Java, Spring, JUnit, Maven, Tomcat, Python. 
-- 📚Atualmente fazendo a formação Spring Framework do alura.
+- ⚡Habilidades: Java, Spring, API Restfull, microserviços, 
+- 📚Atualmente desenvolvendo uma Api em java com Spring boot para o cadastramento de funcionarios .
 - 😄No meu tempo livre eu toco violão e viola caipira hehe 
 
 <!---
